@@ -1,0 +1,1756 @@
+	.mediaViewInfo {
+		--web-view-name: DASHBOARD;
+		--web-view-id: DASHBOARD;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: DASHBOARD;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#DASHBOARD {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: DASHBOARD;
+		--web-view-id: DASHBOARD;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes  {
+	
+	
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	.Ret_ngulo_321 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	.Ret_ngulo_320 {
+		position: absolute;
+		overflow: visible;
+		width: 250px;
+		height: 1020px;
+		left: 0px;
+		top: 59px;
+	}
+	.header {
+		filter: drop-shadow(0px 3px 6px rgba(250, 250, 250, 1));
+		position: absolute;
+		overflow: visible;
+		width: 1938px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grupo_1 {
+		position: absolute;
+		width: 176px;
+		height: 21px;
+		left: 280px;
+		top: 20px;
+		overflow: visible;
+	}
+	#Search_for_anything {
+		position: absolute;
+		left: 40px;
+		top: 1px;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(135,49,49,1);
+	}
+	.Loupe {
+		overflow: visible;
+		position: absolute;
+		width: 20.999px;
+		height: 21.5px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.app_back {
+		overflow: visible;
+		position: absolute;
+		width: 250px;
+		height: 60px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grupo_103 {
+		position: absolute;
+		width: 186px;
+		height: 28px;
+		left: 21px;
+		top: 168px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: MY_EQUIP.html;
+		cursor: pointer;
+	}
+	#My_equipments {
+		position: absolute;
+		left: 41px;
+		top: 0px;
+		overflow: visible;
+		width: 146px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#requisition {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 3px;
+		overflow: visible;
+	}
+	#background {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Ret_ngulo_291 {
+		position: absolute;
+		overflow: visible;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 0px;
+	}
+	#book_x5F_text_x5F_add {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Caminho_135 {
+		overflow: visible;
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grupo_42 {
+		position: absolute;
+		width: 7.812px;
+		height: 7.812px;
+		left: 14.063px;
+		top: 14.062px;
+		overflow: visible;
+	}
+	.Caminho_136 {
+		overflow: visible;
+		position: absolute;
+		width: 7.813px;
+		height: 7.813px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grupo_104 {
+		position: absolute;
+		width: 128px;
+		height: 29px;
+		left: 21px;
+		top: 228px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: NE_WELL__1.html;
+		cursor: pointer;
+	}
+	#New_Well {
+		position: absolute;
+		left: 41px;
+		top: 0px;
+		overflow: visible;
+		width: 88px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#store {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 4px;
+		overflow: visible;
+	}
+	.Caminho_137 {
+		overflow: visible;
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_138 {
+		overflow: visible;
+		position: absolute;
+		width: 18.75px;
+		height: 16.667px;
+		left: 3.125px;
+		top: 4.167px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grupo_102 {
+		position: absolute;
+		width: 147px;
+		height: 27px;
+		left: 21px;
+		top: 107px;
+		overflow: visible;
+	}
+	#Dashboard {
+		position: absolute;
+		left: 41px;
+		top: 0px;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(158,36,28,1);
+	}
+	#dashboard {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 2px;
+		overflow: visible;
+	}
+	.Caminho_125 {
+		overflow: visible;
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_126 {
+		overflow: visible;
+		position: absolute;
+		width: 18.75px;
+		height: 18.75px;
+		left: 3.125px;
+		top: 3.125px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grupo_101 {
+		position: absolute;
+		width: 138px;
+		height: 137px;
+		left: 25px;
+		top: 918px;
+		overflow: visible;
+	}
+	#contact_i2wm_com {
+		position: absolute;
+		left: 0px;
+		top: 49px;
+		overflow: visible;
+		width: 139px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(87,98,113,1);
+	}
+	#_8801829193637 {
+		position: absolute;
+		left: 0px;
+		top: 76px;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(87,98,113,1);
+	}
+	#Support {
+		position: absolute;
+		left: 36px;
+		top: 1px;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(158,36,28,1);
+	}
+	#support {
+		position: absolute;
+		width: 28px;
+		height: 28px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Ret_ngulo_319 {
+		position: absolute;
+		overflow: visible;
+		width: 28px;
+		height: 28px;
+		left: 0px;
+		top: 0px;
+	}
+	.Caminho_181 {
+		overflow: visible;
+		position: absolute;
+		width: 4.24px;
+		height: 12.64px;
+		left: 22.4px;
+		top: 10.08px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_182 {
+		overflow: visible;
+		position: absolute;
+		width: 7.04px;
+		height: 4.24px;
+		left: 11.76px;
+		top: 24.08px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_183 {
+		overflow: visible;
+		position: absolute;
+		width: 21.04px;
+		height: 10.52px;
+		left: 4.48px;
+		top: 1.12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_184 {
+		overflow: visible;
+		position: absolute;
+		width: 3.8px;
+		height: 10.4px;
+		left: 24.64px;
+		top: 11.2px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_185 {
+		overflow: visible;
+		position: absolute;
+		width: 4.24px;
+		height: 12.64px;
+		left: 3.36px;
+		top: 10.08px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_186 {
+		overflow: visible;
+		position: absolute;
+		width: 3.8px;
+		height: 10.4px;
+		left: 0.56px;
+		top: 11.2px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_187 {
+		overflow: visible;
+		position: absolute;
+		width: 7.72px;
+		height: 5.48px;
+		left: 16.8px;
+		top: 20.72px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#www_i2wm_com {
+		position: absolute;
+		left: 0px;
+		top: 117px;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(158,36,28,1);
+	}
+	#Maya {
+		position: absolute;
+		width: 34px;
+		height: 34px;
+		left: 1816px;
+		top: 17px;
+		overflow: visible;
+	}
+	#Notification {
+		position: absolute;
+		width: 15.935px;
+		height: 16.317px;
+		left: 1768.665px;
+		top: 26px;
+		overflow: visible;
+	}
+	#Grupo_61 {
+		position: absolute;
+		width: 15.935px;
+		height: 16.317px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Caminho_191 {
+		overflow: visible;
+		position: absolute;
+		width: 13.81px;
+		height: 11.022px;
+		left: 1.059px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_192 {
+		overflow: visible;
+		position: absolute;
+		width: 15.935px;
+		height: 3.817px;
+		left: 0px;
+		top: 11.431px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Caminho_193 {
+		overflow: visible;
+		position: absolute;
+		width: 2.365px;
+		height: 0.674px;
+		left: 6.876px;
+		top: 15.644px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icon {
+		position: absolute;
+		width: 135px;
+		height: 135px;
+		left: 48px;
+		top: -40px;
+		overflow: visible;
+	}
+	.Icon_Dropdown_Copy_background {
+		width: 12.223px;
+		height: 16px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,1779.4989,120) rotate(-90deg);
+		transform-origin: center;
+	}
+	.Ret_ngulo_75 {
+		filter: drop-shadow(0px 9px 26px rgba(0, 0, 0, 0.027));
+		position: absolute;
+		overflow: visible;
+		width: 1588.97px;
+		height: 544.732px;
+		left: 323px;
+		top: 108px;
+	}
+	#JAN {
+		position: absolute;
+		left: 508.716px;
+		top: 166.749px;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23 {
+		opacity: 0.2;
+	}
+	.Linha_23 {
+		overflow: visible;
+		position: absolute;
+		width: 6.621px;
+		height: 423.013px;
+		left: 579.5px;
+		top: 151.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#FEB {
+		position: absolute;
+		left: 611.507px;
+		top: 165.749px;
+		overflow: visible;
+		width: 28px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_b {
+		opacity: 0.2;
+	}
+	.Linha_23_b {
+		overflow: visible;
+		position: absolute;
+		width: 1.362px;
+		height: 421.001px;
+		left: 692.138px;
+		top: 152.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#MAR {
+		position: absolute;
+		left: 723.332px;
+		top: 165.749px;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_ca {
+		opacity: 0.2;
+	}
+	.Linha_23_ca {
+		overflow: visible;
+		position: absolute;
+		width: 1.988px;
+		height: 421.002px;
+		left: 802.88px;
+		top: 153.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#APR {
+		position: absolute;
+		left: 840.291px;
+		top: 165.749px;
+		overflow: visible;
+		width: 32px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_cb {
+		opacity: 0.2;
+	}
+	.Linha_23_cb {
+		overflow: visible;
+		position: absolute;
+		width: 2.224px;
+		height: 421.003px;
+		left: 919.851px;
+		top: 153.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#MAY {
+		position: absolute;
+		left: 948.82px;
+		top: 165.749px;
+		overflow: visible;
+		width: 37px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_cc {
+		opacity: 0.2;
+	}
+	.Linha_23_cc {
+		overflow: visible;
+		position: absolute;
+		width: 1.33px;
+		height: 420.001px;
+		left: 1032.983px;
+		top: 154.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#JUN {
+		position: absolute;
+		left: 1067.546px;
+		top: 165.749px;
+		overflow: visible;
+		width: 32px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_ce {
+		opacity: 0.2;
+	}
+	.Linha_23_ce {
+		overflow: visible;
+		position: absolute;
+		width: 1.436px;
+		height: 419.001px;
+		left: 1146.111px;
+		top: 155.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#JUL {
+		position: absolute;
+		left: 1182.063px;
+		top: 165.749px;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_cg {
+		opacity: 0.2;
+	}
+	.Linha_23_cg {
+		overflow: visible;
+		position: absolute;
+		width: 5.748px;
+		height: 419.011px;
+		left: 1252.807px;
+		top: 155.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#AUG {
+		position: absolute;
+		left: 1286.61px;
+		top: 165.749px;
+		overflow: visible;
+		width: 35px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_ci {
+		opacity: 0.2;
+	}
+	.Linha_23_ci {
+		overflow: visible;
+		position: absolute;
+		width: 4.124px;
+		height: 417.008px;
+		left: 1363.936px;
+		top: 156.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SEP {
+		position: absolute;
+		left: 1402.245px;
+		top: 165.749px;
+		overflow: visible;
+		width: 29px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_ck {
+		opacity: 0.2;
+	}
+	.Linha_23_ck {
+		overflow: visible;
+		position: absolute;
+		width: 2.005px;
+		height: 417.002px;
+		left: 1467.37px;
+		top: 157.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#OCT {
+		position: absolute;
+		left: 1500.38px;
+		top: 165.749px;
+		overflow: visible;
+		width: 36px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#Linha_23_cm {
+		opacity: 0.2;
+	}
+	.Linha_23_cm {
+		overflow: visible;
+		position: absolute;
+		width: 3.724px;
+		height: 416.007px;
+		left: 1580.276px;
+		top: 157.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#NOV {
+		position: absolute;
+		left: 1623.85px;
+		top: 165.749px;
+		overflow: visible;
+		width: 37px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	.Ret_ngulo_77 {
+		position: absolute;
+		overflow: visible;
+		width: 693.427px;
+		height: 66.105px;
+		left: 427.975px;
+		top: 214.566px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: DASHBOARD___2.html;
+		cursor: pointer;
+	}
+	#Linha_29 {
+		opacity: 0.2;
+	}
+	.Linha_29 {
+		overflow: visible;
+		position: absolute;
+		width: 1.456px;
+		height: 414.001px;
+		left: 1709.544px;
+		top: 159.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#DEC {
+		position: absolute;
+		left: 1752.463px;
+		top: 165.749px;
+		overflow: visible;
+		width: 34px;
+		white-space: nowrap;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: CeraPRO ☞;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(70,66,66,1);
+	}
+	#August_2017 {
+		position: absolute;
+		left: 979.153px;
+		top: 117px;
+		overflow: hidden;
+		width: 139.563px;
+		height: 22px;
+		line-height: 22px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(56,56,56,1);
+	}
+	#Date {
+		position: absolute;
+		left: 1664.188px;
+		top: 118.833px;
+		overflow: visible;
+		width: 131.327px;
+		height: 20.333px;
+		text-align: right;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(56,56,56,1);
+	}
+	.Icon_Dropdown_Copy_background_ct {
+		width: 12.223px;
+		height: 16.953px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,1796.4673,119.5234) rotate(-90deg);
+		transform-origin: center;
+	}
+	.ICon_Dropdown {
+		overflow: visible;
+		position: absolute;
+		width: 12.223px;
+		height: 7.483px;
+		transform: matrix(1,0,0,1,1797.0299,124.2586) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	.Ret_ngulo_340 {
+		position: absolute;
+		overflow: visible;
+		width: 389.081px;
+		height: 66.105px;
+		left: 1444.031px;
+		top: 396.566px;
+	}
+	.Ret_ngulo_420 {
+		position: absolute;
+		overflow: visible;
+		width: 124.081px;
+		height: 66.105px;
+		left: 1711.031px;
+		top: 396.566px;
+	}
+	.Ret_ngulo_324 {
+		position: absolute;
+		overflow: visible;
+		width: 1379.806px;
+		height: 66.105px;
+		left: 453.975px;
+		top: 300.566px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: MY_EQUIP.html;
+		cursor: pointer;
+	}
+	#Linha_23_cy {
+		opacity: 0.1;
+	}
+	.Linha_23_cy {
+		overflow: visible;
+		position: absolute;
+		width: 2.602px;
+		height: 424.004px;
+		left: 480.223px;
+		top: 150.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Ret_ngulo_342 {
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 376px;
+		left: 323px;
+		top: 198px;
+	}
+	#Linha_24 {
+		opacity: 0.1;
+	}
+	.Linha_24 {
+		overflow: visible;
+		position: absolute;
+		width: 1510.006px;
+		height: 10px;
+		left: 323.5px;
+		top: 150.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Linha_26 {
+		opacity: 0.2;
+	}
+	.Linha_26 {
+		overflow: visible;
+		position: absolute;
+		width: 1517.003px;
+		height: 6px;
+		left: 323.5px;
+		top: 197.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Linha_28 {
+		opacity: 0.2;
+	}
+	.Linha_28 {
+		overflow: visible;
+		position: absolute;
+		width: 1513.001px;
+		height: 3px;
+		left: 323.5px;
+		top: 471.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Linha_25 {
+		opacity: 0.1;
+	}
+	.Linha_25 {
+		overflow: visible;
+		position: absolute;
+		width: 3.769px;
+		height: 422.007px;
+		left: 475.5px;
+		top: 152.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Icon_Dropdown_background {
+		width: 12.223px;
+		height: 16.953px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,340.0069,119.5234) rotate(90deg);
+		transform-origin: center;
+	}
+	.ICon_Dropdown_c {
+		overflow: visible;
+		position: absolute;
+		width: 12.223px;
+		height: 7.483px;
+		transform: matrix(1,0,0,1,339.4443,124.2587) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Date_c {
+		position: absolute;
+		left: 362.408px;
+		top: 118.833px;
+		overflow: visible;
+		width: 131.327px;
+		height: 20.333px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(56,56,56,1);
+	}
+	.Ret_ngulo_343 {
+		width: 150px;
+		height: 86px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,324.0178,198.9565) rotate(0deg);
+		transform-origin: center;
+	}
+	#Date_da {
+		position: absolute;
+		left: 326.408px;
+		top: 165.833px;
+		overflow: visible;
+		width: 149.327px;
+		height: 33.333px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(56,56,56,1);
+	}
+	#Date_db {
+		position: absolute;
+		left: 325.408px;
+		top: 227.833px;
+		overflow: visible;
+		width: 149.327px;
+		height: 23.333px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Date_dc {
+		position: absolute;
+		left: 326.408px;
+		top: 320.833px;
+		overflow: visible;
+		width: 149.327px;
+		height: 23.333px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Date_dd {
+		position: absolute;
+		left: 326.408px;
+		top: 411.833px;
+		overflow: visible;
+		width: 149.327px;
+		height: 23.333px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(252,249,249,1);
+	}
+	#Date_de {
+		position: absolute;
+		left: 330.408px;
+		top: 511.833px;
+		overflow: visible;
+		width: 149.327px;
+		height: 23.333px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Linha_32 {
+		opacity: 0.2;
+	}
+	.Linha_32 {
+		overflow: visible;
+		position: absolute;
+		width: 1510.003px;
+		height: 6px;
+		left: 323.5px;
+		top: 382.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Well_B_Engenieer__Jessica_Mile {
+		position: absolute;
+		left: 1636.244px;
+		top: 313.149px;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(255,255,255,1);
+	}
+	#Well_A_Engenieer__Grand_Marsha {
+		position: absolute;
+		left: 918.244px;
+		top: 227.149px;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(110,99,99,1);
+	}
+	#Well_C_Engenieer__Marcos_da_Si {
+		position: absolute;
+		left: 1623.244px;
+		top: 407.149px;
+		overflow: visible;
+		width: 204px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 17px;
+		color: rgba(110,99,99,1);
+	}
+	.Caminho_207 {
+		filter: drop-shadow(0px 3px 6px rgba(209, 208, 208, 1));
+		overflow: visible;
+		position: absolute;
+		width: 960.73px;
+		height: 426.719px;
+		left: 323px;
+		top: 620px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#My_Equipments {
+		position: absolute;
+		left: 354px;
+		top: 651px;
+		overflow: visible;
+		width: 180px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(87,98,113,1);
+	}
+	#Caminho_208 {
+		opacity: 0.1;
+	}
+	.Caminho_208 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 960.731px;
+		height: 19px;
+		left: 322.999px;
+		top: 709.993px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Primary_Kit {
+		position: absolute;
+		left: 353px;
+		top: 743px;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_350 {
+		position: absolute;
+		overflow: visible;
+		width: 348px;
+		height: 18px;
+		left: 514px;
+		top: 750px;
+	}
+	#Respost_Kit {
+		position: absolute;
+		left: 353px;
+		top: 831px;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_351 {
+		position: absolute;
+		overflow: visible;
+		width: 348px;
+		height: 18px;
+		left: 514px;
+		top: 838px;
+	}
+	#Relief_Kit {
+		position: absolute;
+		left: 353px;
+		top: 919px;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_352 {
+		position: absolute;
+		overflow: visible;
+		width: 348px;
+		height: 18px;
+		left: 514px;
+		top: 926px;
+	}
+	.Ret_ngulo_353 {
+		position: absolute;
+		overflow: visible;
+		width: 305.529px;
+		height: 14px;
+		left: 516px;
+		top: 752px;
+	}
+	.Ret_ngulo_354 {
+		position: absolute;
+		overflow: visible;
+		width: 301.529px;
+		height: 14px;
+		left: 516px;
+		top: 840px;
+	}
+	.Caminho_209 {
+		overflow: visible;
+		position: absolute;
+		width: 296.918px;
+		height: 14px;
+		left: 516px;
+		top: 928px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grupo_161 {
+		position: absolute;
+		width: 160px;
+		height: 30px;
+		left: 887px;
+		top: 742px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: MY_EQUIP.html;
+		cursor: pointer;
+	}
+	.Ret_ngulo_298 {
+		position: absolute;
+		overflow: visible;
+		width: 160px;
+		height: 30px;
+		left: 0px;
+		top: 0px;
+	}
+	#See_Details {
+		position: absolute;
+		left: 33px;
+		top: 3px;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	.Ret_ngulo_298_dw {
+		position: absolute;
+		overflow: visible;
+		width: 160px;
+		height: 30px;
+		left: 887px;
+		top: 832px;
+	}
+	#See_Details_dx {
+		position: absolute;
+		left: 920px;
+		top: 835px;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: MY_EQUIP.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	.Ret_ngulo_298_dy {
+		position: absolute;
+		overflow: visible;
+		width: 160px;
+		height: 30px;
+		left: 887px;
+		top: 921px;
+	}
+	#See_Details_dz {
+		position: absolute;
+		left: 920px;
+		top: 924px;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: MY_EQUIP.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	.Caminho_213 {
+		filter: drop-shadow(0px 3px 6px rgba(209, 208, 208, 1));
+		overflow: visible;
+		position: absolute;
+		width: 561.848px;
+		height: 425.719px;
+		left: 1288.157px;
+		top: 621px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Caminho_214 {
+		opacity: 0.1;
+	}
+	.Caminho_214 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 548.253px;
+		height: 23.262px;
+		left: 1298px;
+		top: 691.731px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Well_Information {
+		position: absolute;
+		left: 1329px;
+		top: 651px;
+		overflow: visible;
+		width: 192px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(87,98,113,1);
+	}
+	#Engineer {
+		position: absolute;
+		left: 1328px;
+		top: 714px;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#Jessica_Miles {
+		position: absolute;
+		left: 1514px;
+		top: 714px;
+		overflow: visible;
+		width: 118px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#Venture {
+		position: absolute;
+		left: 1328px;
+		top: 752px;
+		overflow: visible;
+		width: 75px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#Type {
+		position: absolute;
+		left: 1328px;
+		top: 789px;
+		overflow: visible;
+		width: 46px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#Pre_Sal_4 {
+		position: absolute;
+		left: 1516px;
+		top: 789px;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#Location {
+		position: absolute;
+		left: 1328px;
+		top: 825px;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#Gato_do_Mato {
+		position: absolute;
+		left: 1516px;
+		top: 825px;
+		overflow: visible;
+		width: 129px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_50 {
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		height: 38px;
+		left: 1515px;
+		top: 865px;
+	}
+	#ID01_10_2019 {
+		position: absolute;
+		left: 1549px;
+		top: 874px;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_52 {
+		position: absolute;
+		overflow: visible;
+		width: 35px;
+		height: 38px;
+		left: 1659px;
+		top: 865px;
+	}
+	.Caminho_19 {
+		overflow: visible;
+		position: absolute;
+		width: 9.802px;
+		height: 5.892px;
+		left: 1673px;
+		top: 881.808px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Ret_ngulo_363 {
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		height: 38px;
+		left: 1515px;
+		top: 912px;
+	}
+	#ID30_08_2020 {
+		position: absolute;
+		left: 1549px;
+		top: 921px;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_364 {
+		position: absolute;
+		overflow: visible;
+		width: 35px;
+		height: 38px;
+		left: 1659px;
+		top: 912px;
+	}
+	.Caminho_215 {
+		overflow: visible;
+		position: absolute;
+		width: 9.802px;
+		height: 5.892px;
+		left: 1673px;
+		top: 928.808px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Planning_Start {
+		position: absolute;
+		left: 1328px;
+		top: 867px;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	#Drilling_Start {
+		position: absolute;
+		left: 1328px;
+		top: 915px;
+		overflow: visible;
+		width: 117px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_298_ek {
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		height: 30px;
+		left: 1731px;
+		top: 986px;
+	}
+	#See_Details_el {
+		position: absolute;
+		left: 1758px;
+		top: 989px;
+		overflow: visible;
+		width: 34px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: DASHBOARD___1.html;
+		cursor: pointer;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#In_Use {
+		position: absolute;
+		left: 1152px;
+		top: 677px;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_2 {
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		height: 28px;
+		left: 1152px;
+		top: 742px;
+	}
+	.Ret_ngulo_3 {
+		position: absolute;
+		overflow: visible;
+		width: 28px;
+		height: 28px;
+		left: 1181px;
+		top: 742px;
+	}
+	.Ret_ngulo_2_ep {
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		height: 28px;
+		left: 1155px;
+		top: 834px;
+	}
+	.Ret_ngulo_3_eq {
+		position: absolute;
+		overflow: visible;
+		width: 28px;
+		height: 28px;
+		left: 1155px;
+		top: 834px;
+	}
+	.Ret_ngulo_369 {
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		height: 290px;
+		left: 1136px;
+		top: 674px;
+	}
+	.Ret_ngulo_370 {
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		height: 28px;
+		left: 1155px;
+		top: 922px;
+	}
+	.Ret_ngulo_371 {
+		position: absolute;
+		overflow: visible;
+		width: 28px;
+		height: 28px;
+		left: 1155px;
+		top: 922px;
+	}
+	.Ret_ngulo_402 {
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		height: 38px;
+		left: 1515px;
+		top: 960px;
+	}
+	#ID11_06_2021 {
+		position: absolute;
+		left: 1549px;
+		top: 969px;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(87,98,113,1);
+	}
+	.Ret_ngulo_403 {
+		position: absolute;
+		overflow: visible;
+		width: 35px;
+		height: 38px;
+		left: 1659px;
+		top: 960px;
+	}
+	.Caminho_233 {
+		overflow: visible;
+		position: absolute;
+		width: 9.802px;
+		height: 5.892px;
+		left: 1673px;
+		top: 976.808px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#End_date {
+		position: absolute;
+		left: 1328px;
+		top: 963px;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(87,98,113,1);
+	}
